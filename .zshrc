@@ -137,3 +137,6 @@ source ~/.zsh/zsh-history-substring-search/zsh-history-substring-search.zsh
 export CUDA_PATH=/usr/local/cuda
 export PATH=$PATH:/usr/local/cuda/bin
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+export PATH="/home/z7p/.local/bin:$PATH"
