@@ -1,4 +1,8 @@
+
 # How to use
+## pre-requirements
+- nvim (How to install via package manager [linux](https://github.com/neovim/neovim/blob/master/INSTALL.md#linux))
+
 1. install zsh 
 ```
 sudo apt install zsh
