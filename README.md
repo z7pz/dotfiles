@@ -2,7 +2,7 @@
 # How to use
 ## pre-requirements
 - nvim (How to install via package manager [linux](https://github.com/neovim/neovim/blob/master/INSTALL.md#linux))
-
+- GLIBC (you need ubuntu 20)
 1. install zsh 
 ```
 sudo apt install zsh
